@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sharify</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="hi">Szia!</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="password">Jelszó</string>
+    <string name="google_login">Google Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="username">Felhasználónév</string>
+    <string name="cancel">Mégsem</string>
+    <string name="home_page">Kezdőlap</string>
+    <string name="search">Keresés</string>
+    <string name="profile">Profil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_music">Zene hozzáadása</string>
+    <string name="add_favourite">Kedvencekhez adás</string>
+    <string name="title">Cím</string>
+    <string name="author">Előadó</string>
+    <string name="album">Album</string>
+    <string name="logout">Kijelentkezés</string>
+</resources>

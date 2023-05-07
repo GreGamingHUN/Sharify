@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895139296279",
+    "project_id": "sharify-f8b4f",
+    "storage_bucket": "sharify-f8b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895139296279:android:0283a630e187795fcc5852",
+        "android_client_info": {
+          "package_name": "gg.greg.sharify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895139296279-sadbnf29mem69cc193t3aocj36eurpsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gg.greg.sharify",
+            "certificate_hash": "f469d70c9e8f950ade7a8d093f980e6992bb8ca3"
+          }
+        },
+        {
+          "client_id": "895139296279-ra62n3t9jpru73u6tsc5j0jv0vobt2st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvBmCQmcFJNzwWf-ivzMS0YAR7I-XtICM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895139296279-ra62n3t9jpru73u6tsc5j0jv0vobt2st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
